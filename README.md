@@ -1,5 +1,5 @@
 # PCDS-Queueing-Assistant-Mobile-app
-PCDS Queue Assistant is a mobile app that helps students track their queue number in real-time, reducing wait times and eliminating the need to stay physically near the cashier.
+PCDS Queueing Assistant is a mobile app that helps students track their queue number in real-time, reducing wait times and eliminating the need to stay physically near the cashier.
 
 How to download ?
 --Go to Releases at the right 👉 
